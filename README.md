@@ -3,8 +3,8 @@
 ## OPDRACHT 1
 1. openssl_private_encrypt.
 1. openssl_public_encrypt.
-1. Sodium::crypto_secretbox().
-1. UnsafeCrypto::encrypt().
+1. crypt().
+1. openssl_digest()
 
 ## Opdracht 2
 Het maximum aantal bytes RSA can encrypt is 245 bytes.
